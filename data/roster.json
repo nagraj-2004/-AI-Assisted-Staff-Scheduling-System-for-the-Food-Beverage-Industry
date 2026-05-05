@@ -1,0 +1,80 @@
+{
+  "roster": [
+    {
+      "shiftId": "SH001",
+      "day": "Saturday",
+      "session": "Lunch",
+      "startTime": "11:00",
+      "endTime": "15:00",
+      "assigned": {
+        "Waiter": [
+          "Prakash",
+          "Riya"
+        ],
+        "Chef": [
+          "Meena"
+        ],
+        "Cashier": [
+          "Kiran"
+        ]
+      }
+    },
+    {
+      "shiftId": "SH002",
+      "day": "Saturday",
+      "session": "Dinner",
+      "startTime": "18:00",
+      "endTime": "23:00",
+      "assigned": {
+        "Waiter": [
+          "Prakash",
+          "Riya"
+        ],
+        "Chef": [
+          "Meena"
+        ],
+        "Cashier": [
+          "Kiran"
+        ]
+      }
+    },
+    {
+      "shiftId": "SH003",
+      "day": "Sunday",
+      "session": "Lunch",
+      "startTime": "11:00",
+      "endTime": "15:00",
+      "assigned": {
+        "Waiter": [
+          "Prakash",
+          "Riya"
+        ],
+        "Chef": [
+          "Meena"
+        ],
+        "Cashier": [
+          "Kiran"
+        ]
+      }
+    },
+    {
+      "shiftId": "SH1777922880378",
+      "day": "Tuesday",
+      "session": "Lunch",
+      "startTime": "11:00",
+      "endTime": "15:00",
+      "assigned": {
+        "Waiter": [
+          "Prakash",
+          "Riya"
+        ],
+        "Chef": [
+          "Meena"
+        ],
+        "Cashier": [
+          "Kiran"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "alerts": [
+    {
+      "shiftId": "SH002",
+      "day": "Saturday",
+      "session": "Dinner",
+      "role": "Waiter",
+      "required": 3,
+      "assigned": 2,
+      "status": "UNDERSTAFFED",
+      "suggestions": [
+        "Find part-time Waiter",
+        "Extend Waiter hours",
+        "Reduce workload"
+      ],
+      "timestamp": "2026-05-04T19:28:03.367Z"
+    },
+    {
+      "shiftId": "SH002",
+      "day": "Saturday",
+      "session": "Dinner",
+      "role": "Chef",
+      "required": 2,
+      "assigned": 1,
+      "status": "UNDERSTAFFED",
+      "suggestions": [
+        "Find part-time Chef",
+        "Extend Chef hours",
+        "Reduce workload"
+      ],
+      "timestamp": "2026-05-04T19:28:03.373Z"
+    }
+  ]
+}

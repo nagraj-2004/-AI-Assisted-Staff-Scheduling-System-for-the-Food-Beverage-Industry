@@ -1,0 +1,44 @@
+{
+  "staff": [
+    {
+      "id": "S001",
+      "name": "Prakash",
+      "role": "Waiter",
+      "maxHours": 40,
+      "currentHours": 17,
+      "available": true
+    },
+    {
+      "id": "S002",
+      "name": "Riya",
+      "role": "Waiter",
+      "maxHours": 40,
+      "currentHours": 17,
+      "available": true
+    },
+    {
+      "id": "S003",
+      "name": "Arjun",
+      "role": "Chef",
+      "maxHours": 40,
+      "currentHours": 0,
+      "available": false
+    },
+    {
+      "id": "S004",
+      "name": "Meena",
+      "role": "Chef",
+      "maxHours": 40,
+      "currentHours": 17,
+      "available": true
+    },
+    {
+      "id": "S005",
+      "name": "Kiran",
+      "role": "Cashier",
+      "maxHours": 40,
+      "currentHours": 17,
+      "available": true
+    }
+  ]
+}

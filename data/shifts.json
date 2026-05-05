@@ -1,0 +1,56 @@
+{
+  "shifts": [
+    {
+      "id": "SH001",
+      "day": "Saturday",
+      "session": "Lunch",
+      "startTime": "11:00",
+      "endTime": "15:00",
+      "hours": 4,
+      "requirements": {
+        "Waiter": 2,
+        "Chef": 1,
+        "Cashier": 1
+      }
+    },
+    {
+      "id": "SH002",
+      "day": "Saturday",
+      "session": "Dinner",
+      "startTime": "18:00",
+      "endTime": "23:00",
+      "hours": 5,
+      "requirements": {
+        "Waiter": 3,
+        "Chef": 2,
+        "Cashier": 1
+      }
+    },
+    {
+      "id": "SH003",
+      "day": "Sunday",
+      "session": "Lunch",
+      "startTime": "11:00",
+      "endTime": "15:00",
+      "hours": 4,
+      "requirements": {
+        "Waiter": 2,
+        "Chef": 1,
+        "Cashier": 1
+      }
+    },
+    {
+      "id": "SH1777922880378",
+      "day": "Tuesday",
+      "session": "Lunch",
+      "startTime": "11:00",
+      "endTime": "15:00",
+      "hours": 4,
+      "requirements": {
+        "Waiter": 2,
+        "Chef": 1,
+        "Cashier": 1
+      }
+    }
+  ]
+}

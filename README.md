@@ -272,9 +272,7 @@ This keeps your secret keys safe!
 
 ---
 
-## 📄 License
 
-This project is for educational purposes — BMSCE Academic Project 2024.
 
 ---
 
